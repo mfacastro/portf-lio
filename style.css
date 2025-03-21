@@ -83,7 +83,7 @@ img {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 32px;
+    gap: 20px;
 }
 
 .apresentacao__links__subtitulo {
@@ -95,11 +95,11 @@ img {
 .apresentacao__links__link {
     /* background-color: #22d4fd; */
     border: 2px solid var(--cor-terciaria);
-    width: 378px;
+    width: 330px;
     text-align: center;
     border-radius: 16px;
     font-size: 1.5rem;
-    padding: 21.5px 0;
+    padding: 15px 0;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-principal);
